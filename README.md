@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Voice Assistant (STTS)
 
 A modern, real-time Speech-to-Text (STT) and Text-to-Speech (TTS) assistant with a premium, responsive interface. This application uses OpenAI Whisper for high-accuracy local transcription and Edge-TTS for natural-sounding AI voice responses.
@@ -65,3 +66,7 @@ brew install ffmpeg
 
 - **"Address already in use" Error**: If `server.py` fails to start because of port 8767, ensure any previous instances of the server are closed.
 - **Microphone Access**: Ensure your browser has permission to access the microphone for `localhost` or local file access.
+=======
+# stt_tts_fwhisper_websocket
+
+Your final content here
